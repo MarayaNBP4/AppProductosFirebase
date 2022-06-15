@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AppProductosFirebase</string>
+    <string name="title_home">App Productos</string>
+    <string name="title_dashboard">Alta Producto</string>
+    <string name="title_notifications">En Existencia</string>
+    <string name="ingrese_nombre_del_producto">Ingrese nombre</string>
+    <string name="registro_de_producto">Registro del Producto</string>
+    <string name="nombre_del_producto">Nombre del producto</string>
+    <string name="talla_del_producto">Talla del producto</string>
+    <string name="ingrese_la_talla_del_producto">Ingrese talla</string>
+    <string name="ingrese_el_color_del_producto">Ingrese color</string>
+    <string name="color_del_producto">Color del producto</string>
+    <string name="precio_del_producto">Precio del producto</string>
+    <string name="ingrese_el_precio_del_producto">Ingrese precio</string>
+    <string name="registrar">Registrar</string>
+    <string name="ver">Ver</string>
+    <string name="historial">Historial</string>
+</resources>
