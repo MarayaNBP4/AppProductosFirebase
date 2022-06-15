@@ -14,7 +14,7 @@ Contará con un botón que al presionarlo, guardará los valores en Firebase, us
 
 ## Ejercicio. 
  ### 1. Real time database.
- ![Conexión](https://github.com/MarayaNBP4/AppProductosFirebase/tree/master/imagenes/imag1.png)
+ ![Conexión](https://github.com/MarayaNBP4/AppProductosFirebase/blob/master/imagenes/imag1.png)
  
  
  ### 2. Applicación con plantilla Navigator.
